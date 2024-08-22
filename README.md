@@ -7,3 +7,4 @@ Jogo de luta de plataforma com o objetivo de derrubar o oponente até acabar as 
 
 
 Link do projeto godot: https://github.com/MatheuzH/Dev-godot
+Link do projeto do grupo: https://github.com/MatheuzH/ProjetoDevJogos
